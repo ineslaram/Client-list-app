@@ -1,0 +1,33 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "products": [1, 2]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "products": [3]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Producto A",
+      "description": "Descripción del Producto A"
+    },
+    {
+      "id": 2,
+      "name": "Producto B",
+      "description": "Descripción del Producto B"
+    },
+    {
+      "id": 3,
+      "name": "Producto C",
+      "description": "Descripción del Producto C"
+    }
+  ]
+}
